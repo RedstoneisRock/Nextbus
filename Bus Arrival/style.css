@@ -32,14 +32,13 @@ h1{
     padding-left: 1%;
     padding-top: 3px;
     padding-bottom: 3px;
-}
-form{
+}form{
     text-align: left;
     padding-right: 1%;
 }
 input {
     margin-right:0.5em;
-  }
+}
 .btn {
     color:fff;
     background-color: rgb(134, 190, 255);
@@ -72,4 +71,18 @@ input {
     background-color: rgb(0, 84, 148);
     padding-left: 1%;
     color: white;
+}
+.eta-details {
+    /* initially hide ETA */
+    display: none; 
+}
+.station {
+    cursor: pointer;
+}
+.eta-details {
+    /* initially hide ETA */
+    display: none; 
+}
+.station {
+    cursor: pointer;
 }
